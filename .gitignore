@@ -1,5 +1,7 @@
+.idea/*
+!.idea/dictionaries/
 .gradle/
-.idea/
+.kotlin/
 build/
 run/
 src/main/generated/
