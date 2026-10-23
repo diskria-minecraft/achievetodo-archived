@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository has been moved to a monorepo.
+> Active development continues here: https://github.com/diskria-minecraft/achievetodo
+
 # AchieveToDo
 
 Minecraft, but the world has stolen your abilities. Reclaim them one by one by completing BlazeandCave's advancements!
